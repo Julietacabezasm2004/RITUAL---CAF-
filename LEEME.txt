@@ -1,0 +1,21 @@
+RITUAL CAFÉ — ENTREGA MOMENTO 3
+
+Para ver el sitio
+1. Descomprimir el archivo ZIP completo.
+2. Abrir index.html en Chrome, Edge o Safari.
+3. Recorrer Inicio, Menú, ritual Work, Reservas y Tienda ritual desde la navegación.
+
+La carpeta incluye cinco páginas HTML con contenido, una hoja CSS, JavaScript para las interacciones, fotografías, tipografías y dos videos locales. Todos los recursos necesarios están dentro de esta carpeta.
+
+Los dos videos de Inicio corresponden a la masa con harina y las bandejas de medialunas. Son los MP4 originales aportados para esta entrega, con controles de reproducción y disponibles sin conexión. La primera columna conserva la fotografía de preparación de rolls.
+
+La tienda presenta seis productos con imágenes, aromas y precios. El carrito permite agregar, cambiar cantidades, eliminar productos y revisar el total.
+
+Los formularios de contacto, reservas y desayunos, y el resumen de compra, son demostraciones académicas. Los datos ingresados se utilizan en el navegador.
+
+El carrito usa el almacenamiento del navegador. Su persistencia al abrir archivos locales depende del navegador y de sus ajustes. En un sitio alojado bajo un mismo dominio se comparte entre las páginas.
+
+Conservar la estructura de carpetas para que sigan funcionando los enlaces, las imágenes, las fuentes y el video.
+
+VERSIÓN RESPONSIVE
+Adaptada para celulares con menú desplegable, buscador, carrito, formularios verticales y galería táctil. Revisada a 320, 375, 390, 430, 768, 1024 y 1366 píxeles de ancho.
