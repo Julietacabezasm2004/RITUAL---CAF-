@@ -1,13 +1,13 @@
-RITUAL CAFÉ — ENTREGA MOMENTO 3
+RITUAL CAFÉ — ENTREGA FINAL · 18/11/2026
 
 Para ver el sitio
 1. Descomprimir el archivo ZIP completo.
 2. Abrir index.html en Chrome, Edge o Safari.
 3. Recorrer Inicio, Menú, ritual Work, Reservas y Tienda ritual desde la navegación.
 
-La carpeta incluye cinco páginas HTML con contenido, una hoja CSS, JavaScript para las interacciones, fotografías, tipografías y dos videos locales. Todos los recursos necesarios están dentro de esta carpeta.
+La carpeta incluye cinco páginas HTML con contenido, una hoja CSS, JavaScript para las interacciones, fotografías, tipografías y tres videos locales. Todos los recursos necesarios están dentro de esta carpeta.
 
-Los dos videos de Inicio corresponden a la masa con harina y las bandejas de medialunas. Son los MP4 originales aportados para esta entrega, con controles de reproducción y disponibles sin conexión. La primera columna conserva la fotografía de preparación de rolls.
+Los tres videos de Inicio corresponden a la preparación de rolls, la masa con harina y las bandejas de medialunas. Son los MP4 originales aportados para esta entrega, con reproducción automática sin sonido y en bucle, controles para pausar y disponibles sin conexión. El video nuevo de rolls reemplaza la imagen de la primera columna.
 
 La tienda presenta seis productos con imágenes, aromas y precios. El carrito permite agregar, cambiar cantidades, eliminar productos y revisar el total.
 
@@ -18,4 +18,8 @@ El carrito usa el almacenamiento del navegador. Su persistencia al abrir archivo
 Conservar la estructura de carpetas para que sigan funcionando los enlaces, las imágenes, las fuentes y el video.
 
 VERSIÓN RESPONSIVE
-Adaptada para celulares con menú desplegable, buscador, carrito, formularios verticales y galería táctil. Revisada a 320, 375, 390, 430, 768, 1024 y 1366 píxeles de ancho.
+Adaptada para celulares con menú desplegable, buscador, carrito, formularios verticales y galería táctil. Revisada a 320, 390, 768, 1024 y 1366 píxeles de ancho.
+
+VERSIÓN FINAL
+Header bordó, logo original, jerarquías tipográficas revisadas según la cátedra y franja informativa continua.
+Sitio publicado: https://ritual-cafe-palermo.fabulousostrich1.chatgpt.site
